@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/joxcat/ufw
+maintainer = Johan Planchon <dev@planchon.xyz>
+description = Some utilities with to use with UFW (Uncomplicated FireWall)
