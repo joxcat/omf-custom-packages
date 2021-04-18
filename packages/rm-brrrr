@@ -1,4 +1,4 @@
 type = plugin
-repository = https://github.com/joxcat/rm-brrrr
+repository = https://github.com/joxcat/omf-rm-brrrr
 maintainer = Johan Planchon <dev@planchon.xyz>
 description = Safe wrapper around rm to save the universe
